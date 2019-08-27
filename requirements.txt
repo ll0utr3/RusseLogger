@@ -1,0 +1,4 @@
+scapy
+pyinstaller
+pythonping
+pynput
