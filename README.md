@@ -14,7 +14,6 @@ python russelogger.py
 * Start the program on the target machine (you can add it at startup)
 * Download the logs !
 ## 🤵 Specials thanks
-* Unknow101 (ICMP idea)
 * 0x66 (BTC changer idea)
 * BreakingMaths (Current window idea)
 ## ✨ Other
